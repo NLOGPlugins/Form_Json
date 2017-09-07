@@ -1,0 +1,10 @@
+{
+  "type": "modal",
+  "title": "label",
+  "content": [
+    {
+      "type": "label",
+	  "text": "It is text"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "custom_form",
+  "title": "Slider Test",
+  "content": [
+	{
+	  "type": "slider",
+	  "text": "Slider Test",
+	  "min": 0,
+	  "max": 100
+	}
+  ]
+}

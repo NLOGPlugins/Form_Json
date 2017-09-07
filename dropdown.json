@@ -1,0 +1,11 @@
+{
+  "type": "custom_form",
+  "title": "dropdown",
+  "content": [
+    {
+      "type": "dropdown",
+	  "text": "dropdown test",
+	  "options": ["hello", "world"]
+    }
+  ]
+}

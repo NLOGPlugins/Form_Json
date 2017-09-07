@@ -1,0 +1,11 @@
+{
+  "type": "custom_form",
+  "title": "toggle",
+  "content": [
+    {
+      "type": "toggle",
+	  "text": "toggle test",
+	  "default": false
+    }
+  ]
+}

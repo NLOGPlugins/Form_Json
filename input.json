@@ -1,0 +1,16 @@
+{
+  "type": "custom_form",
+  "title": "Input Text!",
+  "content": [
+    {
+      "type": "input",
+      "text": "Input Text!",
+      "default": "Steve"
+    }
+	{
+      "type": "input",
+      "text": "Input Text!",
+      "placeholder": "In-Game Name"
+    }
+  ]
+}
