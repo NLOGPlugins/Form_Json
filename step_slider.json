@@ -4,7 +4,7 @@
   "content": [
     {
       "type": "step_slider",
-	  "text": "step_slider test"
+	  "text": "step_slider test",
 	  "steps": ["0", "1", "2", "3", "4", "5"]
     }
   ]
