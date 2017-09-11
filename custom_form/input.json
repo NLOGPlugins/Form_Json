@@ -6,8 +6,8 @@
       "type": "input",
       "text": "Input Text!",
       "default": "Steve"
-    }
-	{
+    },
+    {
       "type": "input",
       "text": "Input Text!",
       "placeholder": "In-Game Name"
