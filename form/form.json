@@ -1,0 +1,21 @@
+{
+  "type": "form",
+  "title": "§eform test",
+  "content": "This is form.\nForm has buttons.",
+  "buttons": [
+    {
+      "text": "Button 0",
+      "image": {
+			"type": "url",
+			"data": "https://raw.githubusercontent.com/NLOGPlugins/Form_Json/master/form/form.jpg"
+		}
+    },
+	{
+      "text": "Button 1",
+      "image": {
+			"type": "url",
+			"data": "https://raw.githubusercontent.com/NLOGPlugins/Form_Json/master/form/form.jpg"
+		}
+    }
+  ]
+}
