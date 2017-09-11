@@ -10,7 +10,7 @@
 			"data": "https://raw.githubusercontent.com/NLOGPlugins/Form_Json/master/form/form.jpg"
 		}
     },
-	{
+    {
       "text": "Button 1",
       "image": {
 			"type": "url",
