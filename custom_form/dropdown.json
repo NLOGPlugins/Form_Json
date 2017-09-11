@@ -4,8 +4,8 @@
   "content": [
     {
       "type": "dropdown",
-	  "text": "dropdown test",
-	  "options": ["hello", "world"]
+      "text": "dropdown test",
+      "options": ["hello", "world"]
     }
   ]
 }
