@@ -4,8 +4,8 @@
   "content": [
     {
       "type": "toggle",
-	  "text": "toggle test",
-	  "default": false
+      "text": "toggle test",
+      "default": false
     }
   ]
 }
