@@ -1,0 +1,7 @@
+{
+  "type": "modal",
+  "title": "modal test",
+  "content": "This is modal.",
+  "button1": "Button 1",
+  "button2": "Button 2"
+}

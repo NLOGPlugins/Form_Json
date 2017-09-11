@@ -1,0 +1,9 @@
+name: TestModal
+version: "1.0"
+api:
+- 3.0.0-ALPHA7
+author: nlog
+main: nlog\TestModal
+commands:
+  modal:
+    description: test

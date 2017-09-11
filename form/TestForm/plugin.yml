@@ -1,0 +1,9 @@
+name: TestForm
+version: "1.0"
+api:
+- 3.0.0-ALPHA7
+author: nlog
+main: nlog\TestForm
+commands:
+  form:
+    description: test
