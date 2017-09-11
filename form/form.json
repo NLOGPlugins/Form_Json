@@ -7,14 +7,14 @@
       "text": "Button 0",
       "image": {
 			"type": "url",
-			"data": "https://raw.githubusercontent.com/NLOGPlugins/Form_Json/master/form/form.jpg"
+			"data": "https://github.com/NLOGPlugins/Form_Json/blob/master/form/form.jpg?raw=true"
 		}
     },
     {
       "text": "Button 1",
       "image": {
 			"type": "url",
-			"data": "https://raw.githubusercontent.com/NLOGPlugins/Form_Json/master/form/form.jpg"
+			"data": "https://github.com/NLOGPlugins/Form_Json/blob/master/form/form.jpg?raw=true"
 		}
     }
   ]
