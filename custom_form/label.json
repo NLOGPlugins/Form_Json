@@ -1,5 +1,5 @@
 {
-  "type": "modal",
+  "type": "custom_form",
   "title": "label",
   "content": [
     {
